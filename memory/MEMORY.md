@@ -1,1 +1,0 @@
-User wants to route requests to an Engineer agent using Gemini Pro 2.5. Note: Gemini Pro 2.5 requires Google Cloud API access and is not self-hostable. Check if 'eng' agent is installed via ClawHub and if API credentials are configured in workspace.
